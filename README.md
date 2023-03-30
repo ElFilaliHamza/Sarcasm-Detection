@@ -11,3 +11,10 @@ To get the best model wheights you can download it  :
 
 
 <a href="#">Competition Link</a>
+
+
+
+## Shoutouts
+
+- <a href="https://huggingface.co/">🤗 Huggingface</a> for their amazing transformers library. The text encoder portion is pretty much taken care of because of them
+
