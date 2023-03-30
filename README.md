@@ -8,4 +8,6 @@ Use the best model verification notebook after you download the best model file 
 
 To get the best model wheights you can download it  :
 <a href="https://www.mediafire.com/file/gqjfxqecz1h8rqu/best_model.rar/file">Best Model Download LinkLink</a>
+
+
 <a href="#">Competition Link</a>
