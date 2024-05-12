@@ -1,9 +1,8 @@
 # Sarcasm-Detection
 
-After testing different models from Hugging face library for sarcasm detection I decide finally to use twitter Roberta model and finetune it on my dataset which gives me the highest F1-score on the positive class 1 with 53% which is one of the highest results in the competition.
+After thorough experimentation with various models from the Hugging Face library, I have selected and fine-tuned the Twitter RoBERTa model for sarcasm detection on my specific dataset. 
 
-Use the best model verification notebook after you download the best model file from the link bellowand extract it on the repo directory and you would see the results.
-
+This model achieved an F1-score of 53% on the positive class 1, marking one of the highest performances in the competition. This high score demonstrates the model's effectiveness in accurately identifying sarcastic content, which is a challenging aspect of natural language understanding. To ensure transparency and reproducibility, I have prepared a model verification notebook. This notebook allows others to review the testing process and see the impressive results firsthand. For those interested in further exploring or building upon this work, the best model weights are available for download. Simply download the file from the provided link, extract it to your repository directory, and run the verification notebook to replicate the results.
 
 
 To get the best model wheights you can download it  :
